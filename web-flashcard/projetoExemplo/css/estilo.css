@@ -23,3 +23,11 @@ body {
     transition: background 0.3s ease;
     padding: 20px;
 }
+
+.cartao-imagem{
+    width: 50%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
